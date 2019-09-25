@@ -33,7 +33,7 @@
       $("#mainNav").removeClass("navbar-dark");
       $("#mainNav").addClass("navbar-light");
       $("#mainNav").removeClass("bg-transparent");
-      $("#nav-logo").attr("src","img/gem-thrift-logo.svg");
+      $("#nav-logo").attr("src","img/gem-thrift-logo.png");
     } else {
       $("#mainNav").removeClass("navbar-scrolled");
       $("#mainNav").removeClass("navbar-light");
