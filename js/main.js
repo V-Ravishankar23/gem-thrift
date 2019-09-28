@@ -39,7 +39,7 @@
       $("#mainNav").removeClass("navbar-light");
       $("#mainNav").addClass("navbar-dark");
       $("#mainNav").addClass("bg-transparent");
-      $("#nav-logo").attr("src","img/gem-thrift-logo-light.svg");
+      $("#nav-logo").attr("src","img/gem-thrift-logo-light.png");
     }
   };
   // Collapse now if page is not at top
