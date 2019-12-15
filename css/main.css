@@ -141,7 +141,8 @@ h4 {
 
 .title-divider {
   width: 100px;
-  border: 2px solid #32d182;
+  border-color: #32d182;
+  border-width: 2px;
   border-radius: 2px;
 }
 
